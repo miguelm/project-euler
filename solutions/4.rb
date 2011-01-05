@@ -6,9 +6,9 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 limit = 999
 palindromes = []
-limit.downto(0) { |i|
-   limit.downto(0) { |j| 
-      palindromes.push(i*j) if ((i*j).to_s==(i*j).to_s.reverse)
-     }
-   }
-puts palindromes.sort.last
+limit.downto 0 do |i|
+  limit.downto 0 do |j| 
+      palindromes.push(i*j) if (i*j).to_s == (i*j).to_s.reverse
+  end
+end
+puts palindromes.max
