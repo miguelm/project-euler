@@ -1,0 +1,11 @@
+h1. Project Euler Solutions
+
+These are my project Euler _proposed_ solutions in _Ruby_.
+Feel free to leave any comments, we are here all to learn.
+Check out "Project Euler(Project Euler Website)":http://projecteuler.net 
+
+h1. DONE:
+* 1st problem
+* 2nd problem
+* 3rd problem
+* 4th problem
