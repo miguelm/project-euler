@@ -9,3 +9,8 @@ h1. DONE:
 * 2nd problem
 * 3rd problem
 * 4th problem
+* 5th problem
+* 6th problem
+* 7th problem
+* 20th problem
+
